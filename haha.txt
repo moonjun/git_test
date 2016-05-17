@@ -12,3 +12,6 @@ I'm last add content in test2_branch. Go back master then merge test2_branch aga
 
 ---------------------------
 wanna test lightweight tag
+
+----------------------------
+here I wanna try anotated tag
