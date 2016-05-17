@@ -5,10 +5,10 @@ jahjajaj
 
 after come to test_branch
 
-<<<<<<< HEAD
-Im master, merged haha. Now add content here. Later merge again
-=======
 after merging to master add again
 
 I'm last add content in test2_branch. Go back master then merge test2_branch again
->>>>>>> test2_branch
+
+
+---------------------------
+wanna test lightweight tag
