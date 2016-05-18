@@ -1,0 +1,30 @@
+﻿# Manual hunk edit mode -- see bottom for a quick guide
+@@ -13,10 +15,17 @@ I'm last add content in test2_branch. Go back master then merge test2_branch aga
+ ---------------------------
+ wanna test lightweight tag
+ 
+-I shall kekeke
++I wanna test this
+ 
+ ----------------------------
+ here I wanna try anotated tag
+ 
+ 
+hunk?
++
++tesst 2
++
++
++oasl
++
++testdd 3
+# ---
+# To remove '-' lines, make them ' ' lines (context).
+# To remove '+' lines, delete them.
+# Lines starting with # will be removed.
+#
+# If the patch applies cleanly, the edited hunk will immediately be
+# marked for staging. If it does not apply cleanly, you will be given
+# an opportunity to edit again. If all lines of the hunk are removed,
+# then the edit is aborted and the hunk is left unchanged.
+
