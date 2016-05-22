@@ -1,2 +1,7 @@
 macha file
+<<<<<<< HEAD
 test nano
+=======
+
+sss
+>>>>>>> test3_branch
