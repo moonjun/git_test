@@ -12,3 +12,6 @@ after merging to master add again
 
 I'm last add content in test2_branch. Go back master then merge test2_branch again
 >>>>>>> test2_branch
+
+
+I wan master to merge me, wakakakakak
