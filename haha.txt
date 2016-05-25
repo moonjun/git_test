@@ -8,3 +8,5 @@ after come to test_branch
 Im master, merged haha. Now add content here. Later merge again
 
 I wan master to merge me, wakakakakak
+
+I do not know how branch a is doing, anyway, i no care
